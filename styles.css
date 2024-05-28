@@ -1,0 +1,33 @@
+main {
+    background-color: #e7e5e5;
+}
+
+/* Logo section */
+.Logo {
+    margin-top: 110px;
+}
+.imghero {
+    width: 300px;
+}
+
+/* Hero text */
+.textHero {
+    border-bottom: 4px solid yellow;
+    display: inline-block;
+}
+
+/* Cards */
+.imgCard {
+    width: 220px;
+}
+main section:nth-child(2) {
+    background-color: black;
+}
+.icon {
+    filter: invert(100%);
+    opacity: 0.6;
+    width: 50px;
+}
+.bgCard {
+    background-color: #232323;
+}
